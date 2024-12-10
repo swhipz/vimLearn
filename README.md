@@ -1,5 +1,5 @@
 # Ahoy!
--[ x ] checked box?
+-[x] checked box?
 
 
 ### As all elitist programmes must have been through Vim, I've got to give it a shot. <br>
