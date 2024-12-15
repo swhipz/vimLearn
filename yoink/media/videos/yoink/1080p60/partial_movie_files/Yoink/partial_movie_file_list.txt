@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Bruker/Desktop/Desktop_sept_24/codestuff/vim/yoink/media/videos/yoink/1080p60/partial_movie_files/Yoink/3977891868_1643894531_223132457.mp4'
